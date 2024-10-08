@@ -1,2 +1,2 @@
-# ReflexProjectMiniShop
-I started studying REFLEX.
+# MINISHOP
+I started studying REFLEX for practice
